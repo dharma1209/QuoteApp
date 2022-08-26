@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PagingExample2/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.147" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PagingExample2/app/src/main/res/layout/activity_category_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PagingExample2/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PagingExample2/app/src/main/res/layout/activity_quote_category_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PagingExample2/app/src/main/res/layout/activity_searched_quote.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PagingExample2/app/src/main/res/layout/category_list_ittems.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PagingExample2/app/src/main/res/layout/quote_list_items.xml" value="0.15234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PagingExample2/app/src/main/res/layout/search_quote_list_items.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
